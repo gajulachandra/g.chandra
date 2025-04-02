@@ -1,0 +1,56 @@
+body{
+    margin: 0 ;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.anora{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+h1{
+    margin-top: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.top-container{
+    padding-top: 70px;
+    background-color: aquamarine;
+   
+}
+.middle-container{
+   
+     
+}
+.Decodings
+{     width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.bottom-container{
+    
+}
+    
+   
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud
+{
+    position:absolute;
+}
+.top-cloud
+{
+    position: absolute;
+    top: 20px;
+    left: 60%;
+}
